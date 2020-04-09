@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Source/.vs/Framewok/v16/Server/sqlite3
+/Source/Framework.Consistency.Eventual/obj
+/Source/Framework.Consistency.Eventual/bin/Debug
+/Source/.vs/Framewok/v16
+/Source/Framework.Consistency.Eventual/bin/Release
+/Source/.vs/Framewok/DesignTimeBuild
